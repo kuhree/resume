@@ -30,6 +30,7 @@ pdf: output
 		-f markdown \
 		-t pdf \
 		--pdf-engine=wkhtmltopdf \
+		--pdf-engine-opt=--enable-local-file-access \
 		-c ${stylesheet} \
 		-s \
 		-o ${outputDir}/resume.pdf
