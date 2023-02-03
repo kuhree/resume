@@ -38,16 +38,15 @@ I aim to continue advancing my skills through challenging projects and mentorshi
 `webservers`
 `project management`
 `system architecture & design`
-`entrepreneurship`
 `linux`
 
-- **Javascript**: Typescript, Node.js, React.js, Prisma
-- **'Ops**: Github Actions, Drone.io, GitlabCI
-- **Containers**: Docker, Nickpacks
-- **Cloud**: Google Cloud Platform (GCP)
-- **Databases**: Postgres, Prisma
-- **CMS & WYSIWYG**: Shopify, Squarespace, Wordpress, Sanity, Prismic
-- **Linux**: Ubuntu, Debian, Arch
+**Javascript**: Typescript, Node.js, React.js, Prisma
+**'Ops**: Github Actions, Drone.io, GitlabCI
+**Containers**: Docker, Nickpacks
+**Cloud**: Google Cloud Platform (GCP)
+**Databases**: Postgres, Prisma
+**CMS & WYSIWYG**: Shopify, Squarespace, Wordpress, Sanity, Prismic
+**Linux**: Ubuntu, Debian, Arch
 
 ## Experience
 
@@ -75,10 +74,10 @@ First Engineering hire for a web app that records messages from users to themsel
 
 **Technologies Used:** Typescript, Next.js, Emotion.js, Node.js, Github Actions, GCP Cloud Functions and Vercel
 
-## Awards & Recognition
-
-- Winner TechCrunch Disrupt 2001
-- People Magazine's sexiest man alive at 123 My Address, MyCity, TX
+<!-- ## Awards & Recognition -->
+<!---->
+<!-- - Winner TechCrunch Disrupt 2001 -->
+<!-- - People Magazine's sexiest man alive at 123 My Address, MyCity, TX -->
 
 ## Projects
 
