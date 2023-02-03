@@ -37,7 +37,7 @@ steps:
     settings:
       tags: latest
       auto_tag: true
-      repo: git.littlevibe.net/kuhree/cv
+      repo: git.littlevibe.net/kuhree/resume
       registry: git.littlevibe.net
       username:
         from_secret: gitea_username
