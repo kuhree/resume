@@ -5,14 +5,13 @@ outputDir = _site
 
 all: pdf html
 
-dist: 
+output: 
 	@echo "Creating ${outputDir} dir"
 
-	mkdir -p ./${outputDir}
-	cp ${stylesheet} ./${outputDir}
+	@mkdir -p ${outputDir}
+	@cp ${stylesheet} ${outputDir}
 
-html: dist
-
+html: output
 	@echo "Creating HTML version of ${input}"
 
 	@pandoc \
@@ -23,11 +22,10 @@ html: dist
 		-s \
 		-o ${outputDir}/index.html
 
-pdf: dist
-	
+pdf: output
 	@echo "Creating PDF version of ${input}"
 
-	pandoc \
+	@pandoc \
 		${input} \
 		-f markdown \
 		-t pdf \
