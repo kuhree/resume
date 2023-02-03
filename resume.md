@@ -23,7 +23,7 @@ title: "Khari Johnson"
 
 ### **Builder** | **Explorer** | **'Nix Enthusiast**
 
-As a Full-Stack Software Engineer with experience managing the full software development life-cycle, I seek to leverage my technical skills and soft skills to deliver high-quality, performant, and accessible technical workflows.
+As a Full-Stack Software Engineer with experience managing the full software development life-cycle, I seek to leverage my technical skills and soft skills to deliver high-quality, performant, and accessible technical solutions to business problems.
 I aim to continue advancing my skills through challenging projects and mentorship opportunities, while delivering high-quality technical solutions to business problems.
 
 - Experienced in building performant, accessible web applications from end-to-end using Typescript, Next.js, Emotion.js, Node.js, Github Actions, Docker and Google Cloud Platform (GCP).
@@ -40,7 +40,7 @@ I aim to continue advancing my skills through challenging projects and mentorshi
 `system architecture & design`
 `linux`
 
-**Javascript**: Typescript, Node.js, React.js, Prisma
+**Javascript**: Typescript, Node.js, React.js
 **'Ops**: Github Actions, Drone.io, GitlabCI
 **Containers**: Docker, Nickpacks
 **Cloud**: Google Cloud Platform (GCP)
@@ -52,7 +52,7 @@ I aim to continue advancing my skills through challenging projects and mentorshi
 
 ### Lead Software Engineer, E3 Radio
 
-> March 2021 - Present, Illinois, Remote
+> March 2021 - Present | Illinois, Chicago | Remote
 
 Built and maintained a podcast directory platform that now boasts over 100 podcasts and 10k episodes.
 
@@ -63,7 +63,7 @@ Built and maintained a podcast directory platform that now boasts over 100 podca
 
 ### Fullstack Software Engineer, The Institute for Love and Time (TILT)
 
-> February 2020 – August 2022, California, Remote
+> February 2020 – August 2022 | Sebastopol, California | Remote
 
 First Engineering hire for a web app that records messages from users to themselves, resulting in improved positive self-talk.
 
