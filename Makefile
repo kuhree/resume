@@ -1,7 +1,7 @@
 
 input = resume.md
-outputDir = _site # For Github pages
 stylesheet = resume.css
+outputDir = _site
 
 all: pdf html
 
@@ -27,7 +27,7 @@ pdf: dist
 	
 	@echo "Creating PDF version of ${input}"
 
-	@pandoc \
+	pandoc \
 		${input} \
 		-f markdown \
 		-t pdf \
