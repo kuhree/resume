@@ -9,7 +9,7 @@ dist:
 	@echo "Creating ${outputDir} dir"
 
 	mkdir -p ./${outputDir}
-	cp ${stylesheet} ./${outputDir}/${stylesheet}
+	cp ${stylesheet} ./${outputDir}
 
 html: dist
 
