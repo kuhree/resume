@@ -1,14 +1,15 @@
 
 input = resume.md
+outputDir = _site # For Github pages
 stylesheet = resume.css
 
 all: pdf html
 
 dist: 
-	@echo "Creating dist dir"
+	@echo "Creating ${outputDir} dir"
 
-	mkdir -p ./dist
-	cp ${stylesheet} ./dist/${stylesheet}
+	mkdir -p ./${outputDir}
+	cp ${stylesheet} ./${outputDir}/${stylesheet}
 
 html: dist
 
@@ -20,7 +21,7 @@ html: dist
 		-t html \
 		-c ${stylesheet} \
 		-s \
-		-o dist/index.html
+		-o ${outputDir}/index.html
 
 pdf: dist
 	
@@ -33,4 +34,4 @@ pdf: dist
 		--pdf-engine=wkhtmltopdf \
 		-c ${stylesheet} \
 		-s \
-		-o dist/resume.pdf
+		-o ${outputDir}/resume.pdf

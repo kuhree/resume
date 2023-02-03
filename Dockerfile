@@ -15,7 +15,7 @@ WORKDIR /var/www/html
 RUN apt-get update
 RUN apt-get install nginx -y
 
-COPY --from=builder /data/app/dist/ ./
+COPY --from=builder /data/app/_site/ ./
 
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
