@@ -34,3 +34,8 @@ pdf: output
 		-c ${stylesheet} \
 		-s \
 		-o ${outputDir}/resume.pdf
+
+serve.local: html
+	@echo "Serving local ${input} using pnpm and serve"
+
+	@pnpm dlx serve ${output}
