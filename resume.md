@@ -19,6 +19,8 @@ subject: "Khari Johnson's Resume"
 title: "Khari Johnson"
 ---
 
+## Software Engineer - Full Stack
+
 ###### [[kharijohnson.dev](https://kharijohnson.dev)] . [ [kj@gvempire.com](mailto:resume@gvempire.com) ] . [ [323 250 6175](telto:+13232506175) ]
 
 ### **Builder** | **Explorer** | **'Nix Enthusiast**
