@@ -21,7 +21,7 @@ title: "Khari Johnson"
 
 ## Software Engineer - Full Stack
 
-###### [[kharijohnson.dev](https://kharijohnson.dev)] . [ [kj@gvempire.com](mailto:resume@gvempire.com) ] . [ [323 250 6175](telto:+13232506175) ]
+> [[ kharijohnson.dev ](https://kharijohnson.dev)] . [ [kj@gvempire.com](mailto:resume@gvempire.com) ] . [ [323 250 6175](telto:+13232506175) ]
 
 ### **Builder** | **Explorer** | **'Nix Enthusiast**
 
@@ -52,6 +52,7 @@ Committed to delivering impactful results and collaborating with like-minded ind
 ### Senior Software Engineer, E3 Radio
 
 > March 2021 - Present | Illinois, Chicago | Remote
+>
 > **Technologies Used:** Typescript, Next.js, Chakra-ui, Github Actions, Postgres w/ Prisma, GCP and Docker
 
 Built and maintained a podcast directory platform that now boasts over 100 podcasts and 10k episodes.
@@ -62,6 +63,7 @@ Built and maintained a podcast directory platform that now boasts over 100 podca
 ### Fullstack Software Engineer, The Institute for Love and Time (TILT)
 
 > February 2020 – August 2022 | Sebastopol, California | Remote
+>
 > **Technologies Used:** Typescript, Next.js, Emotion.js, Node.js, Github Actions, GCP Cloud Functions and Vercel
 
 First Engineering hire for a web app that records messages from users to themselves, resulting in improved positive self-talk.

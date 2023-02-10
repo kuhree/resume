@@ -38,4 +38,4 @@ pdf: output
 serve.local: html
 	@echo "Serving local ${input} using pnpm and serve"
 
-	@pnpm dlx serve ${output}
+	@pnpm dlx serve ${outputDir}
