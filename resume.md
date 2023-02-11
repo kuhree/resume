@@ -19,9 +19,9 @@ subject: "Khari Johnson's Resume"
 title: "Khari Johnson"
 ---
 
-## Software Engineer - Full Stack
+##### [[ kharijohnson.dev ](https://kharijohnson.dev)] . [ [kj@gvempire.com](mailto:resume@gvempire.com) ] . [ [323 250 6175](telto:+13232506175) ]
 
-> [[ kharijohnson.dev ](https://kharijohnson.dev)] . [ [kj@gvempire.com](mailto:resume@gvempire.com) ] . [ [323 250 6175](telto:+13232506175) ]
+## Software Engineer - Full Stack
 
 ### **Builder** | **Explorer** | **'Nix Enthusiast**
 
@@ -80,24 +80,20 @@ First Engineering hire for a web app that records messages from users to themsel
 
 ## Projects
 
-**[Contract Web Developer](https://gvempire.com)** (2018-2020)
+**[Contract Web Developer](https://gvempire.com)** (2018-2020 | Remote)
 
 - Drove full-cycle development process for a number of brochure and ecommerce sites, including ideation, design, implementation, and maintenance.
 - Advised client leadership on technical implementation, Pay-Per-Click advertising, and product ownership.
 - Built strong client relationships with online brands nationwide, resulting in a 30% increase in project referrals.
 
-**Electrician's Apprentice**
+**Electrician's Apprentice** (2019 | Colorado Springs, CO)
 
-> 2019 | Colorado Springs, CO
-
-As an electrician's apprentice. Through my apprenticeship, I learned the importance of attention to detail and the value of effective communication, both of which have helped me in my work as a software developer.
+Through my apprenticeship, I learned the importance of attention to detail and the value of effective communication, both of which have helped me in my work as a software developer.
 
 - Gained hands-on experience with electrical systems and learned to safely install and repair wiring, lighting, and electrical equipment
 - Developed strong problem-solving skills, honing my ability to diagnose and fix complex electrical issues.
 
-**Sound Technician / Photographer**
-
-> 2019 | Colorado Springs, CO
+**Sound Technician / Photographer** (2019 | Colorado Springs, CO)
 
 As a Sound Technician/Photographer for a local band, I was responsible for setting up, operating, and maintaining the audio and lighting equipment used in live performances. In addition, I was responsible for capturing visually stunning images that showcased the essence of the band.
 
